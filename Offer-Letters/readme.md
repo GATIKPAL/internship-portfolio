@@ -1,1 +1,1 @@
-offer letter
+This folder contains internship offer letters.
